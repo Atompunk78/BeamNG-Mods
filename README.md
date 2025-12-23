@@ -3,7 +3,7 @@
 ### If you want all of them:
 1. Press the green 'Code' button in the top right
 2. Press 'Download ZIP'
-3. Extract from the main zip file, then put the mods in your mod folder
+3. Extract each mod from the main zip file, then put the mods in your mod folder
 
 ### If you just want one:
 1. Click the name of the one you want
